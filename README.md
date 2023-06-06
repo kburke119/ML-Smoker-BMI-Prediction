@@ -1,4 +1,4 @@
-# Smoker-Prediction-Machine-Learning
+# Machine-Learning-Smoker-Prediction
 
 ## Table of Contents
 
