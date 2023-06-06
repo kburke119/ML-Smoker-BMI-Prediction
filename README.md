@@ -27,6 +27,13 @@ Our dataset contained the following column headers:
 
 ## Summary
 - We started by cleaning the dataset with Python, Pandas, and Numpy.
+- Removed unwanted columns, converted data types, and converted text to number values.
+- Separated the data into labels and features then reviewed our X and y variables. 
+- Split our data into training and testing sets. 
+- Utilized scaling so our machine learning model would interpret these features on the same scale.
+- Made predicitions on our test data and evaluated the model (Accuracy Score .956)
+- Allowed users to input their age, bmi, sex, and hospital charges.
+- Model makes the prediction if the user is a smoker or non smoker based on the inputs above.
 
 ## Visualizations
 
