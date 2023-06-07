@@ -26,14 +26,14 @@ Our dataset contained the following column headers:
 - **charges**: individual medical costs billed by health insurance
 
 ## Summary
-- We started by cleaning the dataset with Python, Pandas, and Numpy.
+- We started by cleaning our dataset with Python, Pandas, and Numpy.
 - Removed unwanted columns, converted data types, and converted text to float values.
 - Separated the data into labels and features then reviewed our X and y variables. 
 - Split our data into training and testing sets. 
-- Incorporated scaling so our machine learning model would interpret these features as the same weight.
+- Incorporated scaling so our machine learning model would generalize the distance between our data points as being lower.
 - Made predicitions on our test data and evaluated the model (accuracy score .956)
 - Allowed users to input their age, bmi, sex, and hospital charges.
-- Our model makes the prediction if the user is a smoker or non smoker based on the inputs above.
+- Ran our model to make a prediciton if the user is a smoker or non smoker based on the inputs above.
 
 ## Visualizations
 
