@@ -1,4 +1,4 @@
-# Machine-Learning-Smoker-Prediction
+# Machine-Learning-Smoker-BMI-Prediciton
 
 ## Table of Contents
 
@@ -11,7 +11,10 @@
 [Prensentation Link]()
 
 ## About
+**BMI Prediction**
+Our team's goal was to have machine learning determine a person's bmi when entering their age. 
 
+**Smoker Prediciton**
 Our team's goal was to use machine learning to determine if a person is a smoker or non smoker based on the data points age, bmi, sex, and hospital charges. 
 
 [Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance)
