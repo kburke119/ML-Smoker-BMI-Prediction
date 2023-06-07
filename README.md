@@ -35,8 +35,9 @@ Our dataset contained the following column headers:
 - Split our data into training and testing sets. 
 - Incorporated scaling so our machine learning model would generalize the distance between our data points as being lower.
 - Made predictions on our test data and evaluated the model (accuracy score .956)
-- Allowed users to input their age, bmi, sex, and hospital charges.
-- Ran our model to make a prediction if the user is a smoker or non smoker based on the inputs above.
+- Allowed users to make necessary inputs (age, sex, charges, and bmi).
+- bmi model: Ran our model to make a prediction of the user's bmi based on age.
+- smoker model: Ran our model to make a prediction if the user is a smoker or non smoker based on the inputs above.
 
 ## Visualizations
 ![Screenshot 2023-06-07 at 7 11 43 PM](https://github.com/kburke119/Machine-Learning-Smoker-Prediction/assets/10196762/a4ecb805-4460-4eda-8cdc-e3e63e9bb32b)
