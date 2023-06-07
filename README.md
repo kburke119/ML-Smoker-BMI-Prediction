@@ -30,10 +30,10 @@ Our dataset contained the following column headers:
 - Removed unwanted columns, converted data types, and converted text to float values.
 - Separated the data into labels and features then reviewed our X and y variables. 
 - Split our data into training and testing sets. 
-- Utilized scaling so our machine learning model would interpret these features on the same scale.
-- Made predicitions on our test data and evaluated the model (Accuracy Score .956)
+- Incorporated scaling so our machine learning model would interpret these features as the same weight.
+- Made predicitions on our test data and evaluated the model (accuracy score .956)
 - Allowed users to input their age, bmi, sex, and hospital charges.
-- Model makes the prediction if the user is a smoker or non smoker based on the inputs above.
+- Our model makes the prediction if the user is a smoker or non smoker based on the inputs above.
 
 ## Visualizations
 
