@@ -2,13 +2,9 @@
 
 ## Table of Contents
 
-- [Presentation](#presentation)
 - [About](#about)
 - [Summary](#summary)
 - [Visualizations](#visualizations)
-
-## Presentation
-[Presentation Link]()
 
 ## About
 **bmi model**
